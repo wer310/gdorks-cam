@@ -41,3 +41,4 @@ intitle:flexwatch intext:"Copyright by Seyeon TECH Co"
 intitle:"snc-rz30 home"
 intitle: Network camera
 inurl:"view.shtml" "Network Camera"
+"Camera Live Image" inurl:"guestimage.html"
